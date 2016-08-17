@@ -14,4 +14,4 @@ It was good day, I think I got to understand 50% of the class. There are several
 - Loop and array.
 
 I am interested for whiteboarding and freelance in future.
-I do not understand SSH.
+I do not understand SSH..

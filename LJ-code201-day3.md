@@ -4,7 +4,7 @@ It was good day, I think I got to understand 50% of the class. There are several
 
 - First thing first .md file creation and meanning
 - js part 2 
--                data type
+                 data type
                  splitting string by using a specific charector 
                  reverse split string (str_array.join(' '))
 

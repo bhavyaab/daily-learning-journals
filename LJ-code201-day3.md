@@ -8,9 +8,9 @@ It was good day, I think I got to understand 50% of the class. There are several
                 - splitting string by using a specific charector 
                 - reverse split string (str_array.join(' '))
                 - 
--codepen.io and repl.it  looks good.
--margin padding starts to make sence.
--Loop and array.
+- codepen.io and repl.it  looks good.
+- margin padding starts to make sence.
+- Loop and array.
 
 I am interested for whiteboarding and freelance in future.
 I do not understand SSH.

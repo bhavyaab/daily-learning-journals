@@ -14,3 +14,4 @@ It was good day, I think I got to understand 50% of the class. There are several
 
 I am interested for whiteboarding and freelance in future.
 I do not understand SSH.
+Looking forward to understand lab assignment clear, user story and steps to figureout workdone!!

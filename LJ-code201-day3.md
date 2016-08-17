@@ -7,6 +7,7 @@ It was good day, I think I got to understand 50% of the class. There are several
                 - data type
                 - splitting string by using a specific charector 
                 - reverse split string (str_array.join(' '))
+                - 
 -codepen.io and repl.it  looks good.
 -margin padding starts to make sence.
 -Loop and array.

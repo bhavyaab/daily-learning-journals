@@ -15,4 +15,4 @@ One more good day of learning code, I think I got to understand 80% of the class
 -                      -good to practice for speekinging your mind out loud.
 - git is again had his issue but went out of it ok.
 
-============= =============== ============= =============== ============= ============ 
+============= =============== ============= =============== ============= 

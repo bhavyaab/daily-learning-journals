@@ -12,4 +12,4 @@ There are several thing I have better view then before:
 - plooking forward to finish about_me page 
 - weekend is ruined :(((
 
-============= =============== ============= =============== ============= ============
+============= =============== ============================ ============= ============
